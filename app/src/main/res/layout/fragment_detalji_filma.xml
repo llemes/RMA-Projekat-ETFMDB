@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/nazivFilmDetalji"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:layout_margin="10dp"/>
+
+            <ImageView
+                android:id="@+id/slikaFilmDetalji"
+                android:layout_below="@+id/nazivFilmDetalji"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:cropToPadding="true"/>
+
+            <TextView
+                android:id="@+id/filmOpis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/slikaFilmDetalji"
+                android:layout_margin="5dp"/>
+
+            <DatePicker
+                android:id="@+id/datum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/filmOpis"
+                android:layout_margin="15dp"/>
+
+            <EditText
+                android:id="@+id/detalji"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/datum"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/buttonZapamti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonZapamtiTekst"
+                android:layout_below="@+id/detalji"
+                android:layout_margin="5dp"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</LinearLayout>

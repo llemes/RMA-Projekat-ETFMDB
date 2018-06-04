@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">ETFMDB</string>
+    <string name="buttonPodijeli">Podijeli</string>
+    <string name="buttonGlumciTekst">GLUMCI</string>
+    <string name="buttonReziseriTekst">REŽISERI</string>
+    <string name="buttonZanroviTekst">ŽANROVI</string>
+    <string name="buttonFilmoviTekst">FILMOVI</string>
+    <string name="buttonZapamtiTekst">Zapamti</string>
+    <string name="buttonOstaloTekst">OSTALO</string>
+    <string name="buttonPretraga">Pretraga</string>
+    <string name="buttonBookmark">Bookmark</string>
+
+    <string name="mjestoRodjenjaLabelTekst">Mjesto rođenja:</string>
+    <string name="ratingLabelTekst">Rating:</string>
+    <string name="spolLabelTekst">Spol:</string>
+    <string name="imageButtonTekst">Jezik</string>
+
+    <string name="shareTekst">Podijeli pomoću:</string>
+
+    <string-array name="ImeIPrezime">
+        <item>Meryl Streep</item>
+        <item>Elizabeth Taylor</item>
+        <item>Leonardo DiCaprio</item>
+        <item>Nicolas Cage</item>
+        <item>Sean Connery</item>
+        <item>Sophia Loren</item>
+        <item>Rade Šerbedžija</item>
+        <item>Jason Statham</item>
+        <item>Rooney Mara</item>
+        <item>Amy Adams</item>
+    </string-array>
+
+    <string-array name="GodinaRodjenja">
+        <item>1949</item>
+        <item>1932</item>
+        <item>1974</item>
+        <item>1964</item>
+        <item>1930</item>
+        <item>1934</item>
+        <item>1946</item>
+        <item>1967</item>
+        <item>1985</item>
+        <item>1974</item>
+    </string-array>
+
+    <string-array name="MjestoRodjenja">
+        <item>New Orleans</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Long Beach</item>
+        <item>Fountainbridge</item>
+        <item>Rome</item>
+        <item>Bunić</item>
+        <item>Shirebrook</item>
+        <item>Bedford</item>
+        <item>Vicenza</item>
+    </string-array>
+
+    <string-array name="Rating">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>18</item>
+        <item>5</item>
+        <item>10</item>
+        <item>9</item>
+        <item>20</item>
+        <item>35</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="GodinaSmrti">
+        <item>/</item>
+        <item>2011</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+    </string-array>
+
+    <string-array name="Biografija">
+        <item>
+            Considered by many critics to be the greatest living actress, Meryl Streep has been nominated for the Academy Award an astonishing 20 times, and has won it three times. Meryl was born Mary Louise Streep in 1949 in Summit, New Jersey, to Mary Wolf (Wilkinson), a commercial artist, and Harry William Streep, Jr., a pharmaceutical executive. Her father was of German and Swiss-German descent, and her mother had English, Irish, and German ancestry.
+            <br /><br />Meryl\'s early performing ambitions leaned toward the opera. She became interested in acting while a student at Vassar and upon graduation she enrolled in the Yale School of Drama. She gave an outstanding performance in her first film role, Julia (1977), and the next year she was nominated for her first Oscar for her role in The Deer Hunter (1978). She went on to win the Academy Award for her performances in Kramer vs. Kramer (1979) and Sophie\'s Choice (1982), in which she gave a heart-wrenching portrayal of an inmate mother in a Nazi death camp.
+        </item>
+        <item>
+            Elizabeth Rosemond Taylor was considered one of the last, if not the last, major star to have come out of the old Hollywood studio system. She was known internationally for her beauty, especially for her violet eyes, with which she captured audiences early on in her youth and kept the world hooked on with since.
+            <br /><br />The first production she made with that studio was Lassie Come Home (1943), and on the strength of that one film, MGM signed her for a full year. She had minuscule parts in her next two films, The White Cliffs of Dover (1944) and Jane Eyre (1943) (the former made while she was on loan to 20th Century-Fox). Then came the picture that made Elizabeth a star: MGM\'s National Velvet (1944). She played Velvet Brown opposite Mickey Rooney. The film was a smash hit, grossing over $4 million. Elizabeth now had a long-term contract with MGM and was its top child star. She made no films in 1945, but returned in 1946 in Courage of Lassie (1946), another success. In 1947, when she was 15, she starred in Life with Father (1947) with such heavyweights as William Powell, Irene Dunne and Zasu Pitts, which was one of the biggest box office hits of the year. She also co-starred in the ensemble film Little Women (1949), which was also a box office huge success.
+        </item>
+        <item>
+            Leonardo Wilhelm DiCaprio was born November 11, 1974 in Los Angeles, California, the only child of Irmelin DiCaprio (née Indenbirken) and former comic book artist George DiCaprio. His father is of Italian and German descent, and his mother, who is German-born, is of German and Russian ancestry. His middle name, "Wilhelm", was his maternal grandfather\'s first name. Leonardo\'s father had achieved minor status as an artist and distributor of cult comic book titles, and was even depicted in several issues of American Splendor, the cult semiautobiographical comic book series by the late \'Harvey Pekar\', a friend of George\'s. Leonardo\'s performance skills became obvious to his parents early on, and after signing him up with a talent agent who wanted Leonardo to perform under the stage name "Lenny Williams", DiCaprio began appearing on a number of television commercials and educational programs.
+            <br /><br />Leonardo took up a diverse range of roles in the early 1990s, including a mentally challenged youth in What\'s Eating Gilbert Grape (1993), a young gunslinger in The Quick and the Dead (1995) and a drug addict in one of his most challenging roles to date, "Jim Carroll", in The Basketball Diaries (1995), a role which the late River Phoenix originally expressed interest in. While these diverse roles helped establish Leonardo\'s reputation as an actor, it wasn\'t until his role as "Romeo" in Baz Luhrmann\'s Romeo + Juliet (1996) that Leonardo became a household name, a true movie star. The following year, DiCaprio starred in another movie about doomed lovers, Titanic (1997), which went on to beat all box office records held before then, as, at the time, Titanic (1997) became the highest grossing movie of all time, and cemented DiCaprio\'s reputation as a teen heartthrob. Following his work on Titanic (1997), DiCaprio kept a low profile for a number of years, with roles in The Man in the Iron Mask (1998) and the low-budget The Beach (2000) being some of his few notable roles during this period.
+        </item>
+        <item>
+            Nicolas Cage was born Nicolas Kim Coppola in Long Beach, California, the son of comparative literature professor August Coppola (whose brother is director Francis Ford Coppola) and dancer/choreographer Joy Vogelsang. He is of Italian (father) and Polish, German, and English (mother) descent. Cage changed his name early in his career to make his own reputation, succeeding brilliantly with a host of classic, quirky roles by the late 1980s.
+            <br /><br />Initially studying theatre at Beverly Hills High School (though he dropped out at seventeen), he secured a bit part in Fast Times at Ridgemont High (1982) - most of which was cut, dashing his hopes and leading to a job selling popcorn at the Fairfax Theater, thinking that would be the only route to a movie career. But a job reading lines with actors auditioning for uncle Francis\' Rumble Fish (1983) landed him a role in that film, followed by the punk-rocker in Valley Girl (1983), which was released first and truly launched his career.
+            <br /><br />His one-time passion for method acting reached a personal limit when he smashed a street-vendor\'s remote-control car to achieve the sense of rage needed for his gangster character in The Cotton Club (1984).
+        </item>
+        <item>
+            Thomas Sean Connery was born on August 25, 1930 in Fountainbridge, Edinburgh, Scotland. His mother, Euphemia McBain (née McLean), was a cleaning lady, and his father, Joseph Connery, was a factory worker and truck driver. He has a brother, Neil Connery, who works as a plasterer in Edinburgh. He is of Irish and Scottish descent. Before going into acting, Sean had many different jobs, such as a milkman, lorry driver, a laborer, artist\'s model for the Edinburgh College of Art, coffin polisher and bodybuilder. He also joined the Royal Navy, but was later discharged because of medical problems. At the age of 23, he had a choice between becoming a professional footballer or an actor, and even though he showed much promise in the sport, he chose acting and said it was one of his more intelligent moves.
+            <br /><br />Sean Connery is best known for portraying the character James Bond, starring in seven Bond films between 1962 and 1983. In 1988, Connery won the Academy Award for Best Supporting Actor for his role in The Untouchables (1987). His film career also includes such films as Marnie (1964), The Name of the Rose (1986), The League of Extraordinary Gentlemen (2003), Indiana Jones and the Last Crusade (1989), The Hunt for Red October (1990), Highlander (1986), Murder on the Orient Express (1974), DragonHeart (1996) and The Rock (1996). Connery has been polled as "The Greatest Living Scot" and "Scotland\'s Greatest Living National Treasure". In 1989, he was proclaimed "Sexiest Man Alive" by People magazine, and in 1999, at age 69, he was voted "Sexiest Man of the Century".
+        </item>
+        <item>
+            Sophia Loren was born as Sofia Scicolone at the Clinica Regina Margherita in Rome, Italy, on September 20, 1934. Her father, Riccardo Scicolone, was married to another woman and refused to marry her mother, Romilda Villani, despite the fact that she was the mother of his two children (Sophia and her younger sister Maria Scicolone). Growing up in the slums of Pozzuoli during the second World War without any support from her father, she experienced much sadness in her childhood. Her life took an unexpected turn for the best when, at age 14, she entered into a beauty contest where she placed as one of the finalists. It was there that Sophia caught the attention of film producer Carlo Ponti, some 22 years her senior, whom she eventually married in 1966 once he finally obtained a divorce from his first wife. Perhaps he was the only father figure she ever had. Under his guidance, Sophia was put under contract and appeared as an extra in ten films beginning in 1950, before working her way up to supporting roles. In these early films, she was credited as "Sofia Lazzaro" because people joked her beauty could raise Lazzarus from the dead.
+            <br /><br />In 1991 Sophia received an Honorary Academy Award for her body of work, and was declared "one of world cinema\'s greatest treasures." Later that year, she experienced a great loss when her mother died of cancer. Her return to mainstream films in Ready to Wear (1994) ("Ready to Wear") was well-received, although the film as a whole was not. She followed this up with her biggest U.S. hit in years, the comedy Grumpier Old Men (1995) in which she played a sexy divorcée who seduces Walter Matthau. Over the next decade Sophia had plum roles in a few non-mainstream arthouse films like Soleil (1997), Between Strangers (2002) (directed by Edoardo), and Lives of the Saints (2004). Still beautiful at 72, she posed scantily-clad for the 2007 Pirelli Calendar. Sadly, that same year she mourned the loss of her spouse, Carlo Ponti, who died at age 94. In 2009, after far too much time away from film, she appeared in the musical Nine (2009) opposite Daniel Day-Lewis. These days Sophia is based in Switzerland but frequently travels to Los Angeles to spend time with her sons and their families (Eduardo is married to actress Sasha Alexander). Sophia Loren remains one of the most beloved and recognizable figures in the international film world.
+        </item>
+        <item>
+            Rade Serbedzija was born in Bunic (Korenica) in 1946. Graduated from the Academy of Dramatic Arts in Zagreb. Still a student, he started to play the leading roles in films and theater productions. He is remembered as an outstanding Peer Gynt, Don Juan, Georgij, Melkior, Oedipus, Hamlet, Leon and Richard III. He wrote and published four books of poetry and released four albums, as well as directed 12 plays (Balade Petrice Kerempuha, Kazu da je sova nekad bila pekareva kci, Judita, Hrvatski slavuj). He shot more than seventy films (Crveno klasje (1970), Zadah tela (1983), Hajka (1977), Večernja zvona (1986), Bravo maestro (1978), Variola Vera (1982), Una (1984), Usijanje (1979), Život je lep (1985), Kiklop (1982), Povratak (1979), Horvatov izbor (1985), San o ruzi (1986), Kontesa Dora (1993)), and starred in leading roles of several TV-series (Sam covjek, U registraturi (1974), Prosjaci i sinovi (1971), Bombaski proces (1978), Nikola Tesla (1977), Putovanje u Vucjak (1986)). He joined Vanessa Redgrave to found a theater that produced plays such as Brecht in exile, Liberation of Skopje, Smoke, Opera Sarajevo. He took part in many charity and peace initiatives. After a world famous film Before the Rain (1994) where he played the leading role, he was cast in films by prominent directors of the world (P. Noyce, J. Woo, S. Kubrick, F. Rossi), in films such as The Saint (1997) (P. Noyce), The Truce (1997) (F. Rossi), Prague Duet (1998), Broken English (1996), Eyes Wide Shut (1999) (S. Kubrick), Polish Wedding (1998), Stigmata (1999), Mighty Joe (1998), Il dolce rumore della vita (1999), Open Sea (1998), Mission: Impossible II (2000), Space Cowboys (2000), Snatch (2000), and in South Pacific (2001), Hermano (2007), Quicksand (2003), currently in post-production. He starred alongside Val Kilmer, Elisabeth Shue, John Turturro, Tom Cruise, Glenn Close. He lives in London.
+        </item>
+        <item>
+            Jason Statham was born in Shirebrook, Derbyshire, to Eileen (Yates), a dancer, and Barry Statham, a street merchant and lounge singer. Statham has done quite a lot in a short time. He has been a Diver on the British National Diving Team and finished 12th in the World Championships in 1992. He has also been a fashion model, black market salesman and finally of course, actor. He got the audition for his debut role as Bacon in Lock, Stock and Two Smoking Barrels (1998) through French Connection, for whom he was modeling. They became a major investor in the film and introduced Jason to Guy Ritchie, who invited him to audition for a part in the film by challenging him to impersonate an illegal street vendor and convince him to purchase fake jewelery. Jason must have been doing something right because after the success of Lock, Stock and Two Smoking Barrels (1998) he teamed up again with Guy Ritchie for Snatch (2000), with co-stars including Brad Pitt, Dennis Farina and Benicio Del Toro. After Snatch (2000) came Turn It Up (2000) with US music star Ja Rule, followed by a supporting actor role in the Sci-Fi film Ghosts of Mars (2001), Jet Li\'s The One (2001) and another screen partnership with Vinnie Jones in Mean Machine (2001) under Guy Ritchie\'s and Matthew Vaughn\'s SKA Films. Finally in 2002 he was cast as the lead role of Frank Martin in Transporter (2002). Jason is also in the summer 2003 blockbuster remake of The Italian Job (1969), The Italian Job (2003), playing Handsome Rob.
+        </item>
+        <item>
+            Actress and philanthropist Rooney Mara was born on April 17, 1985 in Bedford, New York. She made her screen debut in the slasher film Urban Legends: Bloody Mary (2005), went on to have a supporting role in the independent coming-of-age drama Tanner Hall (2009), and has since starred in the horror remake A Nightmare on Elm Street (2010), the biographical drama The Social Network (2010), the thriller remake The Girl with the Dragon Tattoo (2011), and the romantic drama Carol (2015).
+            <br /><br />Patricia Rooney Mara is one of four children of Kathleen McNulty (née Rooney) and NFL football team New York Giants executive Timothy Christopher Mara. Her grandfathers were Wellington Mara, co-owner of the Giants, and Timothy Rooney, owner of Yonkers Raceway, and her grand-uncle is Steelers Chairman Dan Rooney, the former Ambassador to Ireland. She is the great-granddaughter of Art Rooney, the founder of the Pittsburgh Steelers football franchise. Her father has Irish, German, and French-Canadian ancestry, and her mother is of Irish and Italian descent.
+            <br /><br />In the spirit of her family\'s philanthropic endeavors, Rooney created Faces of Kibera, a charity that provides food, medical care and housing to orphans in Nairobi, Kenya\'s Kibra district, a small slum that houses a million people. There are many orphans as AIDS is rampant in the slum.
+        </item>
+        <item>
+            Amy Lou Adams was born in Vicenza, Veneto, Italy, to American parents, Kathryn (Hicken) and Richard Kent Adams, a U.S. serviceman who was stationed at Caserma Ederle in Italy at the time. She was raised in a Mormon family of seven children in Castle Rock, Colorado, and has English, as well as smaller amounts of Danish, Swiss-German, and Norwegian, ancestry.
+            <br /><br />Adams sang in the school choir at Douglas County High School and was an apprentice dancer at a local dance company, with the ambition of becoming a ballerina. However, she worked as a greeter at The Gap and as a Hooters hostess to support herself before finding work as a dancer at Boulder\'s Dinner Theatre and Country Dinner Playhouse in such productions as "Brigadoon" and "A Chorus Line". It was there that she was spotted by a Minneapolis dinner-theater director who asked her to move to Chanhassen, Minnesota for more regional dinner theater work.
+            <br /><br />Her role in the low-budget independent film Junebug (2005) (which was shot in 21 days) got her real attention, including an Academy Award nomination for Best Supporting Actress as well as other awards. The following year, her ability to look like a wide-eyed Disney animated heroine helped her to be chosen from about 300 actresses auditioning for the role of "Giselle" in the animated/live-action feature film, Enchanted (2007), which would prove to be her major break-through role. Her vivacious yet innocent portrayal allowed her to use her singing and dancing talents. Her performance garnered a Golden Globe Award nomination for Best Actress in a Motion Picture Musical or Comedy.
+        </item>
+    </string-array>
+
+    <string-array name="Spol">
+        <item>F</item>
+        <item>F</item>
+        <item>M</item>
+        <item>M</item>
+        <item>M</item>
+        <item>F</item>
+        <item>M</item>
+        <item>M</item>
+        <item>F</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="ImdbLink">
+        <item>http://www.imdb.com/name/nm0000658/</item>
+        <item>http://www.imdb.com/name/nm0000072/</item>
+        <item>http://www.imdb.com/name/nm0000138/</item>
+        <item>http://www.imdb.com/name/nm0000115/</item>
+        <item>http://www.imdb.com/name/nm0000125/</item>
+        <item>http://www.imdb.com/name/nm0000047/</item>
+        <item>http://www.imdb.com/name/nm0784884/</item>
+        <item>http://www.imdb.com/name/nm0005458/</item>
+        <item>http://www.imdb.com/name/nm1913734/</item>
+        <item>http://www.imdb.com/name/nm0010736/</item>
+    </string-array>
+
+    <string-array name="ReziserImePrezime">
+        <item>Stephen Spielberg</item>
+        <item>Quentin Tarantino</item>
+        <item>David Fincher</item>
+        <item>Christopher Nolan</item>
+        <item>Clint Eastwood</item>
+        <item>Martin Scorsese</item>
+        <item>James Cameron</item>
+        <item>George Lucas</item>
+        <item>JJ Abrams</item>
+        <item>David Lynch</item>
+    </string-array>
+
+    <string-array name="ZanrNaziv">
+        <item>Drama</item>
+        <item>Komedija</item>
+        <item>Triler</item>
+        <item>Akcijski</item>
+        <item>Sci-Fi</item>
+        <item>Horor</item>
+        <item>Western</item>
+        <item>Misterij</item>
+        <item>Mjuzikl</item>
+        <item>Fantazijski</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

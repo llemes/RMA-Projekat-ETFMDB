@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">ETFMDB</string>
+    <string name="buttonPodijeli">Podijeli</string>
+    <string name="buttonGlumciTekst">GLUMCI</string>
+    <string name="buttonReziseriTekst">REŽISERI</string>
+    <string name="buttonZanroviTekst">ŽANROVI</string>
+    <string name="buttonFilmoviTekst">FILMOVI</string>
+    <string name="buttonOstaloTekst">OSTALO</string>
+    <string name="buttonZapamtiTekst">Zapamti</string>
+    <string name="buttonPretraga">Pretraga</string>
+    <string name="buttonBookmark">Bookmark</string>
+
+    <string name="mjestoRodjenjaLabelTekst">Mjesto rođenja:</string>
+    <string name="ratingLabelTekst">Rejting:</string>
+    <string name="spolLabelTekst">Spol:</string>
+    <string name="imageButtonTekst">Jezik</string>
+
+    <string name="shareTekst">Podijeli pomoću:</string>
+
+    <string-array name="ImeIPrezime">
+        <item>Meryl Streep</item>
+        <item>Elizabeth Taylor</item>
+        <item>Leonardo DiCaprio</item>
+        <item>Nicolas Cage</item>
+        <item>Sean Connery</item>
+        <item>Sophia Loren</item>
+        <item>Rade Šerbedžija</item>
+        <item>Jason Statham</item>
+        <item>Rooney Mara</item>
+        <item>Amy Adams</item>
+    </string-array>
+
+    <string-array name="GodinaRodjenja">
+        <item>1949</item>
+        <item>1932</item>
+        <item>1974</item>
+        <item>1964</item>
+        <item>1930</item>
+        <item>1934</item>
+        <item>1946</item>
+        <item>1967</item>
+        <item>1985</item>
+        <item>1974</item>
+    </string-array>
+
+    <string-array name="MjestoRodjenja">
+        <item>New Orleans</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Long Beach</item>
+        <item>Fountainbridge</item>
+        <item>Rome</item>
+        <item>Bunić</item>
+        <item>Shirebrook</item>
+        <item>Bedford</item>
+        <item>Vicenza</item>
+    </string-array>
+
+    <string-array name="Rating">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>18</item>
+        <item>5</item>
+        <item>10</item>
+        <item>9</item>
+        <item>20</item>
+        <item>35</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="GodinaSmrti">
+        <item>/</item>
+        <item>2011</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+        <item>/</item>
+    </string-array>
+
+    <string-array name="Biografija">
+        <item>
+            Meryl Streep, za koju mnogi smatraju da je najbolja živa glumica, nevjerovatnih 20 puta je nominovana za Oskara, te ga je osvojilatri puta. Meryl je rođena kao Mary Louise Streep 1949. u Summitu, New Jersey, komercijalnoj umjetnici Mary Wolf (Wilkinson), i farmaceutu Harry William Streep, Jr. Njen otac je njemačko-švicarskog porijekla, a njena majka ima engleskog, irskog i njemačkog porijekla.
+            <br /><br />Meryline rane ambicije su se ogledale u operi. Postala je zainteresovana za glumu dok je bila student u Vassaru, te se upisala u Yale školu glume nakon diplomiranja. U svojom prvom filmu Julia (1977) se pokazala, te je naredne godine nominovana za svog prvog Oskara za ulogu u filmu Lovac na jelene (1978). Zatim je osvojila Oskara za Kramer protiv Kramera (1979) i Sofijin izbor (1982).
+        </item>
+        <item>
+            Elizabeth Rosemond Taylor se smatra jednom od posljednjih, ako ne i posljednjom, velikom zvijezdom koja je došla iz starog Holivuda. Bila je poznata širom svijeta po svojoj ljepoti, naročito po svojim ljubičastim očima, kojima je plijenila pažnju veoma rano u svojoj mladosti.
+            <br /><br />Prva produkcija koju je napravila sa studiom je bio Lassei se vraća kući (1943), i na osnovu tog jednog filma, potpisala je ugovor sa MGM-om za cijelu godinu. Imala je manje bitne uloge u svoja naredna dva filma, Bijele litide Covera (1944) i Jane Eyre (1943) (prvi je napravljen dok je bila pozajmljena 20th Century Fox-u). Zatim je došao film koji je Elizabeth učinio zvijezdom: MGM-ov Nacionalni baršun (1944). Glumila je Velvet Brown sa kolegom Mickey Rooney-em. Film je bio veliki hit, sa zaradom iznad 4 miliona dolara. Elizabeth je sada imala dugoročni ugovor sa MGM-om i bila je njihova najveća dječija zvijezda. Nije snimala filmove u 1945., ali se vratila na scenu 1946. u Lassiejevoj hrabrosti (1946), još jednim uspjehom. 1947., kada je imala 15 godina, glumila je u Životu s ocem (1947) sa velikim zvijezdama poput Williama Powella, Irene Dunne i Zasu Pitts, koji je bio jedan od najvećih hitova godine. Tkođer je glumila u filmu Male žene (1949), koji je također bio veliki uspjeh.
+        </item>
+        <item>
+            Leonardo Wilhelm DiCaprio je rođen 11. Novembra 1974, u Los Angelesu, California, jedinac Irmelin DiCaprio (rođena Indenbirken) i bivšeg strip umjetnika Georgea DiCaprio. Njegov otac je talijanskog i njemačkog porijekla, a njegova majka, koja je rođena Njemica, je njemačkog i ruskog porijekla. Njegovo srednje ime, "Wilhelm", je bilo ime njegovog djeda s majčine strane. Leonardov otac je postigao izvjestan ugled kao umjetnik i distributor kultnih strip naslova, te je čak pisano o njemu u nekoliko izdanja American Splendora, kultne poluautobiografske serije stripova pokojnog Harveya Pekara, Georgeovog prijatelja. Leonardove vještine na sceni su postale očigledne njegovim roditeljima u ranom dobu, te nakon što su ga prijavili agentu za talente koji je želio da Leonardo glumi pod scenskim imenom "Lenny Williams", DiCaprio se počeo pojavljivati u brojnim TV reklamama i edukacionim programima.
+            <br /><br />Leonardo je glumio u raznovrsnim ulogama u ranim devedesetima, uključujući mentalno zaostalog mladića u Šta izjeda Gilberta Grapea (1993), mladog revolveraša u Brzim i mrtvim (1995) i narkomana u jednoj od njegovih najtežih uloga do danas, "Jim Carroll", u Košarkaškim dnevnicim (1995), uloga za koju je originalno pokazao interes pokojni River Phoenix. Dok su ove raznovrsne uloge pomogle Leonardovoj reputaciji kao glumca, on nije postao prava zvijezda do svoje uloge Romea u Baz Luhrmannovom Romeo + Julija (1996). Naredne godine, DiCaprio je glumio u još jednom filmu o prokletim ljubavnicima, Titanic (1997), koji je oborio sve dotadašnje rekorde, te zacementirao DiCapriovu reputaciju tinejdžerskog srcolomca. Nakon svoje uloge u Titanicu (1997), DiCaprio se klonio očiju javnosti nekoliko godina, sa ulogama u Čovjek u željeznoj maski (1998) i niskobudžetnoj Plaži (2000) kao najznačajnijim iz ovog perioda.
+        </item>
+        <item>
+            Nicolas Cage je rođen kao Nicolas Kim Coppola u Long Beachu, California, sin profesora komparativne literature Augusta Coppole (čiji je brat režiser Francis Ford Coppola) i plesačice/koreografkinje Joy Vogelsang. On je talijanskog (otac) i poljsko-njemačko-engleskog (majka) porijekla. Cage je promijeni ime rano u svojoj glumačkoj karijeri da bi napravio svoju reputaciju, sa velikim uspjehom u klasičnim ulogama do kasnih osamdesetih.
+            <br /><br />Ispočetka studirajući teatar u Beverly Hills srednjoj školi (iako je odustao u sedamnaestoj godini), glumio je u maloj ulozi u Brzim vremenima u Ridgemont High-u (1982) - čega je većina isječena, ubijajući mu nade i vodeći ga do posla prodavača kokica u Fairfax kinu, misleći da mu je to jedina putanja ka glumačkoj karijeri. Ali posao čitanja scenarija sa glumcima koji su audicionisali za Rumble fish (1983) ujaka Francisa doveo ga je do uloge u tom filmu, popraćenu ulogom rokera u Djevojka iz doline (1983), koji je izašao prvi, te uistinu započeo njegovu karijeru.
+            <br /><br />Njegova jednokratna strast prema metodičnoj glumi dovela ga je do lične granice kada je uništio autić na daljinski uličnog prodavača da dosegne nivo bijesa potreban za svoju ulogu gangstera u Pamučnom klubu (1984).
+        </item>
+        <item>
+            Thomas Sean Connery je rođen 25. Augusta 1930. u Fountainbridgeu, Edinburgh, Škotska. Njegova majka, Euphemia McBain (rođena McLean), je bila čistačica, a njegov otac, Joseph Connery, je bio radnik u fabrici i vozač kamiona. Ima brata, Neila Conneryja, koji radi kao koler u Edinburghu. Irsko-škotskog je porijekla. Prije nego što se odlučio za glumu, Sean je imao mnoštvo poslova, poput mljekara, vozača kamiona, modela za umjetnika, polirača lijesova te bodybuildera. Također se pridružio kraljevskoj mornarici, ali je otpušten zbog zdravstvenih problema. Kada je napunio 23 godine, imao je izbor između postajanja profesionalnim fudbalerom ili glumcem, te iako je pokazivao mnogo potencijala u sportu, odabrao je glumu i rekao da je to jedan od njegovih inteligentnijih poteza.
+            <br /><br />Sean Connery je najpoznatiji po utjelovljenju Jamesa Bonda, glumeći u sedam Bond filmova između 1962.i 1983. 1988., Connery je osvojio Oskara za najboljeg sporednog glumca za svoju ulogu u Nedodirljivima (1987.). Njegova filmska karijera također uključuje filmove poput Marnie (1964), Ime ruže (1986), Liga nevjerovatnih džentlmena (2003), Indiana Jones i posljednji pohod (1989), Lov na crveni oktobar (1990), Gorštak (1986), Ubistvo na Orient Expressu (1974), Zmajevo srce (1996) i Stijena (1996). Connery je bio izglasan za najboljeg živućeg Škota i najveće živuće blago Škotske. 1989., proglašen je najzgodnijim čovjekom na svijetu od strane People časopisa, a 1999, u 69. godini, proglašen je najzgodnijim čovjekom stoljeća.
+        </item>
+        <item>
+            Sophia Loren je rođena kao Sofia Scicolone u klnici Regina Margherita u Rimu, Italija, 20. Septembra 1934. Njen otac, Riccardo Scicolone, je bio oženjen drugom ženom i odbio je da oženi njenu majku, Romildu Villani, uprkos činjenici da je ona bila majka njegovo dvoje djece (Sophie i njene mlađe sestre Marie Scicolone). Odrastajući u Pozzuoli straćarama tokom Drugog svjetskog rata bez ikakve podrške od svog oca, iskusila je mnogo tuge u svom djetinjstvu. Njen život je neočekivano krenuo nabolje kada se, sa 14 godina, prijavila za takmičenje u ljepoti gdje je smještena među finaliste. Tamo je Sophia zapala za oko filmskom producentu Carlu Pontiju, koji je od nje stariji 22 godine, za koga se na kraju udala 1966. kada se konačno razveo od svoje prve žene. Možda jedina očinska figura koju je ikada imala. Pod njegovim vodstvom, Sophia je smještena pod ugovor i pojavljivala se kao statista u deset filmova od 1950., prije nego što je došla do sporednih uloga. U ovim ranim filmovima, nazivali su je "Sofia Lazzaro" jer su se ljudi šalili da bi njena ljepota mogla dići Lazarusa iz mrtvih.
+            <br /><br />1991. Sophia je dobila Oskara za svoje životno djelo, te je proglašena jednim od najvećih blaga svijeta filma. Kasnije te godine, doživjela je veliku tragediju kada je njena majka umrla od raka. Njen povratak u filmski svijet u filmu Spreman za nositi (1994) je bio dobro primljen, iako film kao cjelina nije. Ovo je popratila svojim najvećim hitom u SAD godinama, komedijom Čangrizaviji starac (1995) u kojoj je glumila seksi razvedenu ženu koja zavede Waltera Matthau. Tokom narednog desetljeća Sophia je imala uloge u nekoliko manj popularnih filmova poput Soleil (1997), Između stranaca (2002) i Životi svetaca (2004). I dalje lijepa u 72. godini, pozirala je za Pirelli kalendar 2007. Nažalost, te iste godine je izgubila i muža, Carla Pontija, koji je umro u 94. godini. 2009., nakon previše vremena bez filma, pojavila se u mjuziklu Devet (2009) sa Daniel Day-Lewisom. Ovih dana Sophia se nalazi u Švicarskoj ali često putuje u Los Angeles da provodi vrijeme sa svojim sinovima i njehovim porodicama (Eduardo je oženjen glummicom Sashom Alexander). Sophia Loren ostaje jedna od najvoljenijih i najpoznatijih figura filmskog svijeta.
+        </item>
+        <item>
+            Rade Šerbedžija je rođen u Buniću (Korenica) 1964. Diplomirao je na Akademiji dramskih umjetnosti u Zagrebu. Već kao student, počeo je glumiti u glavnim ulogama u filmovima i predstavama. Zapamćen je po Peer Gyntu, Don Juanu, Georgiju, Melkioru, Oedipusu, Hamletu, Leonu i Richardu III. Napisao je i objavio četiri knjige poezije i izbacio četiri album, te režirao dvanaest predstava (Balade Petrice Kerempuha, Kazu da je sova nekad bila pekareva kci, Judita, Hrvatski slavuj). Snimio je više od sedamdeset filmova (Crveno klasje (1970), Zadah tela (1983), Hajka (1977), Večernja zvona (1986), Bravo maestro (1978), Variola Vera (1982), Una (1984), Usijanje (1979), Život je lep (1985), Kiklop (1982), Povratak (1979), Horvatov izbor (1985), San o ruzi (1986), Kontesa Dora (1993)), te je glumio u glanvim ulogama nekoliko TV serija (Sam covjek, U registraturi (1974), Prosjaci i sinovi (1971), Bombaski proces (1978), Nikola Tesla (1977), Putovanje u Vucjak (1986)). Pridružio se Vanessi Redgrave da osnuje pozorište koje je produciralo predstave poput Brecht u progonstvu, Oslobođenje Skopja, Dim, Opera Sarajevo. Učestvovao je u mnogim humanitarnim i mirovnim inicijativama. Nakon svjetski poznatog filma Prije kiše (1994) gdje je glumio glavnu ulogu, angažovali su ga poznati svjetski režiseri (P. Noyce, J. Woo, S. Kubrick, F. Rossi), u filmovima poput Sveca (1997), Primirje (1997), Praški duet (1998), Pokvareni engleski (1996), Oči širom zatvorene (1999), Poljsko vjenčanje (1998), Stigmata (1999), Moćni Joe (1998), Il dolce rumore della vita (1999), Otvoreno more (1998), Nemoguća misija 2 (2000), Svemirski kauboji (2000), Snatch (2000) i Sjeverni Pacifik (2001), Hermano (2007), Živi pijesak (2003), trenutno u post-produkciji.  Glumio je sa Val Kilmerom, Elisabeth Shue, Johnom Turturrom, Tomom Cruiseom, Glenn Close. Živi u Londonu.
+        </item>
+        <item>
+            Jason Statham je rođen u Shirebrooku, Derbyshire, roditeljima Eileen (Yates), plesačici, i Barryju Stathammu, uličnom prodavaču i pjevaču u barovima. Statham je dosta postigao za kratko vrijeme. Bio je ronilac za britansku reprezentaciju i završio dvanaesti na svjetskom prvenstvu 1992. Također je bio model, trgovac na crnom tržištu i, naravno, glumac. Dobio je audiciju za svoju debitantsku ulogu kao Bacon u Lock, Stock and Two Smoking Barrels (1998) kroz French Connection, za koje je radio kao model. Postali su glavni investitor u film, te upoznali Jasona sa Guy Ritchiejem, koji ga je pozvao na audiciju za ulogu u filmu izazivajući ga da odglumi ilegalnog uličnog prodavača i ubijedi ga kupi lažni nakit. Jason je zasigurno radio nešto kko treba, jer nakon uspjeha Lock, Stock and Two Smoking Barrels (1998) ponovo se sastao sa Guy Ritchiem za Snatch (2000), sa zvijezdama poput Brad Pitta, Dennisa Farine i Benicia Del Tora. Nakon Snatcha (2000) je došao Turn it up (2000) sa američkom muzičkom zvijezdom Ja Rule, popraćeno sporednom ulogom u Sci-Fi filmu Duhovi Marsa (2001), Jet Lijevom The One (2001) i još jednim partnerstvom sa Vinnie Jonesom u Mean Machine (2001) pod Guy Ritchiejevim i Matthew Vaughnovim SKA filmovima. Konačno, 2002. je dobio glavnu ulogu Franka Martina u Transporteru (2002). Jason je također glumio u Talijanskom poslu (2003), kao Handsome Rob.
+        </item>
+        <item>
+            Glumica i filantrop Rooney Mara je rođena 17. Aprila 1985. u Bedfordu, New York. Prvi put se pojavila na sceni u slasher filmu Urbane Legende: Krvava Mary (2005), nastavila sa sporednom ulogom u nezavisnoj drami Tanner Hall (2009), i od tada je glumila u hororu A Nightmare on Elm Street (2010), biografskoj drami Društvena mreža (2010), trileru Muškarci koji mrze žene (2011) i romantičnoj drami Carol (2015).
+            <br /><br />Patricia Rooney Mara je jedna od četvero djece Kathleen McNulty (rođena Rooney) i direktora NFL fudbalskog tima New York Giants Timothy Christopher Mara. Njeni djedovi su bili Wellington Mara, suvlasnik Giants-a i Timothy Rooney, vlasnik Yonkers trkaće staze, a njen pra-ujak je Dan Rooney, bivši ambasador u Irskoj. Praunuka je Arta Rooneya, osnivača Pittsburgh Steelers fudbalske franšize. Njen otac ima irsko, njemačko i francusko-kanadsko porijeklo, a njena majka je irsko-talijanskog porijekla.
+            <br /><br />U duhu svoje porodice, Rooney je kreirala Lica Kibere, humanitarnu organizaciju koja opskrbljuje siročad u Nairobiju (Kenija) hranom, zdravstvenom skrblju i smještajem. Ima mnogo siročadi, kako je SIDA zastupljena ovdje.
+        </item>
+        <item>
+            Amy Lou Adams je rođena u Vicenzi, Veneto, Italija, roditeljima Kathryn (Hicken) i Richardu Kentu Adamsu, amerikancu koji je bio stacionisam u Caserma Ederle u Italiji u to vrijeme. Odrasla je u Mormonskoj porodici sedmero djece u Castle Rocku, Colorado, i ima englesko, dansko, švicarsko-njemačko i norveško porijeklo.
+            <br /><br />Adams je pjevala u školskom horu u srednjoj školi Douglas County i bila je plesačica u lokalnoj plesnoj kompaniji, sa ambicijama da postane balerina. Međutim, radila je kao hostesa u The Gap i kao Hooters hostesa da se održava prije nego što je našla posao kao plesačica u Boulder\'s pozorištu i Country Dinner Playhouse u produkcijama poput Brigadoon i A Chorus Line. Tamo je primjećena od strane Minneapoliškog režisera koji je tražio da se preseli u Chanhassen, Minnesota, za posao.
+            <br /><br />Njena uloga u niskobudžetnom nezavisnom filmu Junebug (2005) (koji je snimljen za 21 dan) je skrenuo pažnju javnosti na nju, uključujući nominaciju za Oskara za najbolju sporednu glumicu. Naredne godine, njena mogućnost da izgleda kao Disney animirana heroina joj je pomogla da bude odabrana od 300 glumica za ulogu Giselle u live action filmu Enchanted (2007), koji bi se pokazao kao njena probijajuća uloga. Iskoristila je svoje talente za pjevanje i plesanje. Za performans joj je uslijedio zlatni globus za najbolju glumicu u mjuziklu ili komediji.
+        </item>
+    </string-array>
+
+    <string-array name="Spol">
+        <item>Ž</item>
+        <item>Ž</item>
+        <item>M</item>
+        <item>M</item>
+        <item>M</item>
+        <item>Ž</item>
+        <item>M</item>
+        <item>M</item>
+        <item>Ž</item>
+        <item>Ž</item>
+    </string-array>
+
+    <string-array name="ImdbLink">
+        <item>http://www.imdb.com/name/nm0000658/</item>
+        <item>http://www.imdb.com/name/nm0000072/</item>
+        <item>http://www.imdb.com/name/nm0000138/</item>
+        <item>http://www.imdb.com/name/nm0000115/</item>
+        <item>http://www.imdb.com/name/nm0000125/</item>
+        <item>http://www.imdb.com/name/nm0000047/</item>
+        <item>http://www.imdb.com/name/nm0784884/</item>
+        <item>http://www.imdb.com/name/nm0005458/</item>
+        <item>http://www.imdb.com/name/nm1913734/</item>
+        <item>http://www.imdb.com/name/nm0010736/</item>
+    </string-array>
+
+    <string-array name="ReziserImePrezime">
+        <item>Stephen Spielberg</item>
+        <item>Quentin Tarantino</item>
+        <item>David Fincher</item>
+        <item>Christopher Nolan</item>
+        <item>Clint Eastwood</item>
+        <item>Martin Scorsese</item>
+        <item>James Cameron</item>
+        <item>George Lucas</item>
+        <item>JJ Abrams</item>
+        <item>David Lynch</item>
+    </string-array>
+
+    <string-array name="ZanrNaziv">
+        <item>Drama</item>
+        <item>Komedija</item>
+        <item>Triler</item>
+        <item>Akcijski</item>
+        <item>Sci-Fi</item>
+        <item>Horor</item>
+        <item>Western</item>
+        <item>Misterij</item>
+        <item>Mjuzikl</item>
+        <item>Fantazijski</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

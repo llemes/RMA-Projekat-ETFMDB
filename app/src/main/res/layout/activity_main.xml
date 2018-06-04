@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ba.unsa.etf.rma.lamija_lemes.rma17_17070.ActivityMain">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonGlumci"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonGlumciTekst"
+                android:layout_weight="3"
+                android:textSize="12sp"
+                android:maxLines="1"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+
+            <Button
+                android:id="@+id/buttonReziseri"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonReziseriTekst"
+                android:layout_weight="3"
+                android:textSize="12sp"
+                android:maxLines="1"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+
+            <Button
+                android:id="@+id/buttonZanrovi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonZanroviTekst"
+                android:layout_weight="3"
+                android:textSize="12sp"
+                android:maxLines="1"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+
+            <Button
+                android:id="@+id/buttonFilmovi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonFilmoviTekst"
+                android:layout_weight="3"
+                android:textSize="12sp"
+                android:maxLines="1"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+
+            <ImageButton
+                android:id="@+id/buttonJezik"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_weight="1"
+                android:scaleType="centerInside"
+                android:baselineAlignBottom="true"
+                android:contentDescription="@string/imageButtonTekst"/>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/aktivniFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/buttons"/>
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/layoutBio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/slikaBio"
+                android:layout_width="wrap_content"
+                android:layout_height="350dp"
+                android:layout_margin="5dp"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/imePrezimeBio"
+                android:layout_below="@+id/slikaBio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:id="@+id/godinaRodjenjaSmrti"
+                android:layout_below="@+id/imePrezimeBio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:id="@+id/mjestoRodjenjaLabel"
+                android:layout_below="@+id/godinaRodjenjaSmrti"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mjestoRodjenjaLabelTekst"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:id="@+id/mjestoRodjenjaBio"
+                android:layout_below="@+id/godinaRodjenjaSmrti"
+                android:layout_toRightOf="@+id/mjestoRodjenjaLabel"
+                android:layout_toEndOf="@+id/mjestoRodjenjaLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:id="@+id/ratingLabel"
+                android:layout_below="@id/mjestoRodjenjaLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"
+                android:text="@string/ratingLabelTekst"/>
+
+            <TextView
+                android:id="@+id/ratingBio"
+                android:layout_below="@+id/mjestoRodjenjaLabel"
+                android:layout_toRightOf="@+id/ratingLabel"
+                android:layout_toEndOf="@+id/ratingLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:id="@+id/spolLabel"
+                android:layout_below="@+id/ratingLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"
+                android:text="@string/spolLabelTekst"/>
+
+            <TextView
+                android:id="@+id/spolBio"
+                android:layout_below="@+id/ratingLabel"
+                android:layout_toRightOf="@+id/spolLabel"
+                android:layout_toEndOf="@+id/spolLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <Button
+                android:id="@+id/buttonPodijeli"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/spolLabel"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="3dp"
+                android:text="@string/buttonPodijeli" />
+
+            <Button
+                android:id="@+id/buttonBookmark"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/buttonPodijeli"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="3dp"
+                android:text="@string/buttonBookmark"/>
+
+            <TextView
+                android:id="@+id/imdbLink"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_below="@+id/buttonBookmark"
+                android:autoLink="web"/>
+
+            <TextView
+                android:id="@+id/biografijaBio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imdbLink"
+                android:textSize="15sp"
+                android:layout_margin="10dp"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</LinearLayout>
